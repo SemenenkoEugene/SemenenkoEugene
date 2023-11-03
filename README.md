@@ -16,7 +16,8 @@
     <img src="https://komarev.com/ghpvc/?username=SemenenkoEugene&style=flat-square&color=brightgreen" alt=""/>
       <h1>
         Привет, меня зовут Евгений!
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJwaTd5emFxeXhlYjNudnBuZ29jNjBkcTNqYTRydmcxbWUyZGlyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJwaTd5emFxeXhlYjNudnBuZ29jNjBkcTNqYTRydmcxbWUyZGlyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif"       
+             width="30px"/>
       </h1>
   </div>
 </div>
