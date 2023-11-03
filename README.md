@@ -22,8 +22,6 @@
   </div>
 </div>
 
----
-
 ### :man_technologist: Обо мне :
 Я Java-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  Нравится создавать для людей различные удобные приложения и веб-сервисы, которыми они будут пользоваться в своей повседневной жизни.
 - :telescope: Я инженер-программист и вношу свой вклад в развитие веб-сервисов.
@@ -33,8 +31,6 @@
 - :zap: В свободное время я решаю задачи на CodeWars и читаю технические статьи.
 
 - :mailbox: Как найти меня: [![Telegram Badge](https://img.shields.io/badge/Семененко_Евгений-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Java_Developer_Vol)
-
----
 
 ---
 
