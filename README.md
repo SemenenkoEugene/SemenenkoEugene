@@ -9,7 +9,7 @@
   <a href="https://www.codewars.com/users/Eugene82">
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
-  <a href="https://t.me/Java_Developer_Vol">
+  <a href="https://t.me/Semenenko_Evgeniy">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <div id="badges">
